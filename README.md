@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there, i'm Alireza Aslani, a junior frontend engineer .
+### My skils : 
+|Main skills|knowleg|expreiance|                                                                    
+| :-------- | :------- | :------------------------- |
+|<img src="./images/html-5-svgrepo-com.png" alt="HTML" width="50" height="50"> |`90%`|2 years|
+|<img src="./images/css-3-svgrepo-com.png" alt="CSS" width="50" height="50"> |`90%`|2 years|
+|<img src="./images/js-svgrepo-com.png" alt="JS" width="50" height="50">|`95%`|2 years|
+|<img src="./images/typescript-icon-svgrepo-com.png" alt="JS" width="50" height="50">|`85%`|1 month|
+|<img src="./images/react-svgrepo-com.png" alt="React" width="50" height="50">|`90%`|1 year|
 
-<!--
-**alirezaAslani-eng/alirezaAslani-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|frame work / package|knowleg|expreiance|                                                                    
+| :-------- | :------- | :------------------------- |
+|<img src="./images/tailwind-svgrepo-com.png" alt="Tailwind" width="50" height="50"> |`90%`|1 year|
+|<img src="./images/material-ui-svgrepo-com.png" alt="mui" width="50" height="50"> |`70%`|7 months|
+|<img src="./images/js-svgrepo-com.png" alt="JS" width="50" height="50">|`95%`|2 years|
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frindly with : <img src="./images/webpack-svgrepo-com.png" alt="Webpack" width="30" height="30">
