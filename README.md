@@ -2,11 +2,11 @@
 ### My skils : 
 |Main skills|knowleg|expreiance|                                                                    
 | :-------- | :------- | :------------------------- |
-|<img src="./images/html-5-svgrepo-com.png" alt="HTML" width="30" height="30"> |`90%`|2 years|
-|<img src="./images/css-3-svgrepo-com.png" alt="CSS" width="30" height="30"> |`90%`|2 years|
-|<img src="./images/js-svgrepo-com.png" alt="JS" width="30" height="30">|`95%`|2 years|
-|<img src="./images/typescript-icon-svgrepo-com.png" alt="JS" width="30" height="30">|`85%`|1 month|
-|<img src="./images/react-svgrepo-com.png" alt="React" width="30" height="30">|`90%`|1 year|
+|<img style="display:block; margin:0 auto;" src="./images/html-5-svgrepo-com.png" alt="HTML" width="30" height="30"> |`90%`|2 years|
+|<img style="display:block; margin:0 auto;" src="./images/css-3-svgrepo-com.png" alt="CSS" width="30" height="30"> |`90%`|2 years|
+|<img style="display:block; margin:0 auto;" src="./images/js-svgrepo-com.png" alt="JS" width="30" height="30">|`95%`|2 years|
+|<img style="display:block; margin:0 auto;" src="./images/typescript-icon-svgrepo-com.png" alt="JS" width="30" height="30">|`85%`|1 month|
+|<img style="display:block; margin:0 auto;" src="./images/react-svgrepo-com.png" alt="React" width="30" height="30">|`90%`|1 year|
 
 |frame work / package|knowleg|expreiance|                                                                    
 | :-------- | :------- | :------------------------- |
