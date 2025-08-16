@@ -7,3 +7,4 @@
 |<img style="display:block; margin:0 auto;" src="./images/js-svgrepo-com.png" alt="JS" width="30" height="30">|`95%`|2 years|
 |<img style="display:block; margin:0 auto;" src="./images/typescript-icon-svgrepo-com.png" alt="JS" width="30" height="30">|`85%`|1 month|
 |<img style="display:block; margin:0 auto;" src="./images/react-svgrepo-com.png" alt="React" width="30" height="30">|`90%`|1 year|
+|<img style="display:block; margin:0 auto;" src="./images/nextjs-fill-svgrepo-com.png" alt="Next" width="30" height="30">|`60%`|Learning ... |
