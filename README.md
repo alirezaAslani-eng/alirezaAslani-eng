@@ -1,4 +1,5 @@
-## 👋 Hi there, i'm Alireza Aslani, a Junior frontend engineer .
+## 👋 Hi there, i'm Alireza Aslani, a Frontend Developer.
+
 ### My skils : 
 |`Main skills`|knowleg|expreiance|`frame work / package`|knowleg|expreiance|                                                                    
 | :-------- | :------- | :---------- | :--------- |:--------- |:--------- |
