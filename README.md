@@ -1,4 +1,4 @@
-## 👋 Hi there, i'm Alireza Aslani, a Frontend Developer.
+## 👋 Hi there, i'm Alireza Aslani, a React Developer.
 
 ### My skils : 
 |`Main skills`|knowleg|expreiance|`frame work / package`|knowleg|expreiance|                                                                    
