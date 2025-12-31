@@ -1,6 +1,6 @@
 # 👋 Hi there, i'm Alireza Aslani, a React Developer.
 
-## Skils 😎 : 
+## Skils : 
 |`Main skills`|knowleg|expreiance|`frame work / package`|knowleg|expreiance|                                                                    
 | :-------- | :------- | :---------- | :--------- |:--------- |:--------- |
 |<img style="display:block; margin:0 auto;" src="./images/html-5-svgrepo-com.png" alt="HTML" width="30" height="30"> |`90%`|3 years|<img width="30" height="30"  style="display:block; margin:0 auto;" alt="Tailwind" src="./images/tailwind-svgrepo-com.png">|`90%`|1 year|
