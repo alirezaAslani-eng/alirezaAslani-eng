@@ -7,5 +7,5 @@
 |<img style="display:block; margin:0 auto;" src="./images/css-3-svgrepo-com.png" alt="CSS" width="30" height="30"> |`90%`|3 years|<img width="30" height="30"  style="display:block; margin:0 auto;" alt="Tailwind" src="./images/material-ui-svgrepo-com.png">|`70%`|7 months|
 |<img style="display:block; margin:0 auto;" src="./images/js-svgrepo-com.png" alt="JS" width="30" height="30">|`95%`|2 years|
 |<img style="display:block; margin:0 auto;" src="./images/typescript-icon-svgrepo-com.png" alt="JS" width="30" height="30">|`85%`|5 months|
-|<img style="display:block; margin:0 auto;" src="./images/react-svgrepo-com.png" alt="React" width="30" height="30">|`90%`|1 year|
+|<img style="display:block; margin:0 auto;" src="./images/react-svgrepo-com.png" alt="React" width="30" height="30">|`90%`|1.5 year|
 |<img style="display:block; margin:0 auto;" src="./images/nextjs-fill-svgrepo-com.png" alt="Next" width="30" height="30">|`60%`|Learning ... |
