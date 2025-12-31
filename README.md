@@ -13,20 +13,21 @@ the quality of codebase and simplification. I'm currently working on a Next.js p
 |<img style="display:block; margin:0 auto;" src="./images/react-svgrepo-com.png" alt="React" width="30" height="30">| 90% |1.5 years|
 |<img style="display:block; margin:0 auto;" src="./images/nextjs-fill-svgrepo-com.png" alt="Next" width="30" height="30">| 60% | 4 months |
 
-## [My Resume](./en-resume.pdf)
-## Contact Info
+## [My Resume](./en-resume.pdf) 📄
+
+## Contact Info 🌐
 - Linkedin : https://linkedin.com/in/alireza-aslane
 - Phone : +98 921 69968 41
 - Email : alirezaaslane.mob7@gmail.com
 
-## Currently learning
+## Recent Projects 👨‍💻
+- Financial Dashboard with Next.js & MUI | 👉 [Repo](https://github.com/alirezaAslani-eng/finance-manager)
+  
+## Currently learning 📚
 - Next.js
 - Best React.js patterns
 - Performance optimization with tools like Lighthouse and Profiler
 
-## Recent Projects 👨‍💻
-- Financial Dashboard with Next.js & MUI | 👉 [Repo](https://github.com/alirezaAslani-eng/finance-manager)
-
-## My plan for the future
+## My plan for the future 
 - Learn Docker and Redux
 - Develop a professional portfolio website with Next.js and Tailwind CSS based on a Figma design
