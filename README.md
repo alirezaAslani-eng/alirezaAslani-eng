@@ -13,7 +13,7 @@ the quality of codebase and simplification. I'm currently working on a Next.js p
 |<img style="display:block; margin:0 auto;" src="./images/react-svgrepo-com.png" alt="React" width="30" height="30">| 90% |1.5 years|
 |<img style="display:block; margin:0 auto;" src="./images/nextjs-fill-svgrepo-com.png" alt="Next" width="30" height="30">| 60% | 4 months |
 
-## [My Resume](./en-resume.pdf) 📄
+## [My Resume](./En-Resume.pdf) 📄
 
 ## Contact Info 🌐
 - Linkedin : https://linkedin.com/in/alireza-aslane
