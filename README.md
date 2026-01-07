@@ -1,7 +1,7 @@
 # 👋 Hi there, i'm Alireza Aslani, a React Developer.
 
-with over 2 years of experience in Front-End Development. eager to learn and care about
-the quality of codebase and simplification. I'm currently working on a Next.js project and learning App Router along with optimisation in Next.js
+with over 2 years of experience. I care deeply about clean code and follow principles like SRP and KISS to keep the codebase maintainable and easy to scale. Of course that I work on fixing production bugs and building engaging user interfaces with React.js, and I’m always eager to collaborate with an experienced team to create meaningful solutions.
+
 
 ## Skils : 
 |`Main skills`|knowleg|expreiance|`frame work / package`|knowleg|expreiance|                                                                    
