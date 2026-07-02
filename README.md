@@ -1,33 +1,28 @@
 # 👋 Hi there, i'm Alireza Aslani, a React Developer.
-
 with over 2 years of experience. I care deeply about clean code and follow principles like SRP and KISS to keep the codebase maintainable and easy to scale. Of course that I work on fixing production bugs and building engaging user interfaces with React.js, and I’m always eager to collaborate with an experienced team to create meaningful solutions.
-
-
 ## Skils : 
 |`Main skills`|knowleg|expreiance|`frame work / package`|knowleg|expreiance|                                                                    
 | :-------- | :------- | :---------- | :--------- |:--------- |:--------- |
-|<img style="display:block; margin:0 auto;" src="./images/html-5-svgrepo-com.png" alt="HTML" width="30" height="30"> | 90% |3 years|<img width="30" height="30"  style="display:block; margin:0 auto;" alt="Tailwind" src="./images/tailwind-svgrepo-com.png">| 90 |1 year|
-|<img style="display:block; margin:0 auto;" src="./images/css-3-svgrepo-com.png" alt="CSS" width="30" height="30"> | 90% |3 years|<img width="30" height="30"  style="display:block; margin:0 auto;" alt="Tailwind" src="./images/material-ui-svgrepo-com.png">| 70% |7 months|
-|<img style="display:block; margin:0 auto;" src="./images/js-svgrepo-com.png" alt="JS" width="30" height="30">| 95% |2 years|<img width="30" height="30"  style="display:block; margin:0 auto;" alt="Git" src="./images/git.png">| 75% |5 months|
-|<img style="display:block; margin:0 auto;" src="./images/typescript-icon-svgrepo-com.png" alt="JS" width="30" height="30">| 85% |4 months|
-|<img style="display:block; margin:0 auto;" src="./images/react-svgrepo-com.png" alt="React" width="30" height="30">| 90% |1.5 years|
-|<img style="display:block; margin:0 auto;" src="./images/nextjs-fill-svgrepo-com.png" alt="Next" width="30" height="30">| 60% | 4 months |
-
+|<img style="display:block; margin:0 auto;" src="./images/html-5-svgrepo-com.png" alt="HTML" width="30" height="30"> | 90% |3 years|<img width="30" height="30"  style="display:block; margin:0 auto;" alt="Tailwind" src="./images/tailwind-svgrepo-com.png">| 90% |1 year|
+|<img style="display:block; margin:0 auto;" src="./images/css-3-svgrepo-com.png" alt="CSS" width="30" height="30"> | 90% |3 years|<img width="30" height="30"  style="display:block; margin:0 auto;" alt="Tailwind" src="./images/material-ui-svgrepo-com.png">| 90% |1 year|
+|<img style="display:block; margin:0 auto;" src="./images/js-svgrepo-com.png" alt="JS" width="30" height="30">| 95% |2.5 years|<img width="30" height="30"  style="display:block; margin:0 auto;" alt="Git" src="./images/git.png">| 80% |8 months|
+|<img style="display:block; margin:0 auto;" src="./images/typescript-icon-svgrepo-com.png" alt="JS" width="30" height="30">| 85% |8 months|
+|<img style="display:block; margin:0 auto;" src="./images/react-svgrepo-com.png" alt="React" width="30" height="30">| 90% |2 years|
+|<img style="display:block; margin:0 auto;" src="./images/nextjs-fill-svgrepo-com.png" alt="Next" width="30" height="30">| 60% | 1 year |
 ## [My Resume](./En-Resume.pdf) 📄
-
 ## Contact Info 🌐
 - Linkedin : https://linkedin.com/in/alireza-aslane
 - Phone : +98 921 69968 41
 - Email : alirezaaslane.mob7@gmail.com
-
 ## Recent Projects 👨‍💻
-- Financial Dashboard with Next.js & MUI | 👉 [Repo](https://github.com/alirezaAslani-eng/finance-manager)
+- Metal trading platform | 👉 [Repo](https://github.com/alirezaAslani-eng/trading-view)
   
-## Currently learning 📚
+## Currently focusing on 🧐
 - Next.js
 - Best React.js patterns
+- Frontend architecture & Scalable Design system
 - Performance optimization with tools like Lighthouse and Profiler
-
+  
 ## My plan for the future 
 - Learn Docker and Redux
 - Develop a professional portfolio website with Next.js and Tailwind CSS based on a Figma design
